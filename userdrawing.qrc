@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/line.png</file>
+        <file>icons/select.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/dot.png</file>
+        <file>icons/router.png</file>
+    </qresource>
+</RCC>
